@@ -24,3 +24,35 @@ This project applies word correction, a key aspect of natural language processin
 ### Description:
 
 This project focuses on Object Detection, a critical application of image processing aimed at identifying objects within an image. Using the DNN module from the OpenCV library, users can upload an input image, and the model will detect and return bounding boxes with the coordinates of detected objects.
+
+## Project 3: Build Chatbot from HubChat
+
+### Demo:
+
+<div align="center">
+  <img src="images/project_03_chatbot_deploy.png" alt="Project 01 Word Correction" width="600"/>
+</div>
+
+### Description:
+
+This project focuses on developing a simple chatbot application using the Hugging Face library and Streamlit. Chatbots have seen significant development in recent years, primarily focusing on large language models capable of interacting effectively with user requests. The project involves creating a user-friendly interface where users can interact with the chatbot.
+
+## Set-up for running Project
+
+### Create conda environment and install all requir
+
+```bash
+$ conda create -n <env_name> -y python=3.11
+$ conda activate <env_name>
+$ pip3 install -r requirements.txt
+```
+
+### Run project
+
+```bash
+$ streamlit run ./<project_folder_name>/app.py
+```
+
+### Warning
+
+If you want to chat with the chatbot in **Project 3: Chatbot**, you need to register an account on [Hugging Face](https://huggingface.co/) and enter the correct **username** and **password** to use it.
