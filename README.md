@@ -30,7 +30,7 @@ This project focuses on Object Detection, a critical application of image proces
 ### Demo:
 
 <div align="center">
-  <img src="images/project_03_chatbot_deploy.png" alt="Project 01 Word Correction" width="600"/>
+  <img src="images/project_03_chatbot_deploy.png" alt="Project 01 Word Correction" width="800"/>
 </div>
 
 ### Description:
